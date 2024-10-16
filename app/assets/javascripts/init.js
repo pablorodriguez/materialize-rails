@@ -115,3 +115,5 @@ $(document).on('turbo:load', function() {
   });
   console.log("load init on turbo:load");
 });
+
+console.log("load init");
